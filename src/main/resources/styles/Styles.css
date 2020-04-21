@@ -1,0 +1,12 @@
+.mainFxmlClass {
+
+}
+
+#btExecutar {
+    -fx-background-color: #2980b9;
+}
+
+#pnOpitions {
+    -fx-border-color: #000000;
+    -fx-background-color: #eee;
+}

@@ -1,0 +1,5 @@
+Controller NomeDaClasse {
+	_onAlive() {
+		ahead(1);
+	}
+}
